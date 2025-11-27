@@ -15,9 +15,6 @@
 - [Documentación de la API](#-documentación-de-la-api)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Ejemplos de Uso](#-ejemplos-de-uso)
-- [Troubleshooting](#-troubleshooting)
-- [Contribuir](#-contribuir)
-- [Licencia](#-licencia)
 
 ---
 
@@ -570,3 +567,4 @@ chmod +x test.sh
 ```
 
 ---
+
